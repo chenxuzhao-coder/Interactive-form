@@ -1,6 +1,4 @@
 # Interactive-form
-techdegree-project3
-
 1.the name, creditcardnumber, zipcode, cvv input field listen for user interaction(from line 257 to 285)
 
 
